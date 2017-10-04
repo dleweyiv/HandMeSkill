@@ -1,7 +1,7 @@
 {	
-	"utterance": "Hand me",
+	"utterance": "Hand me a cookie",
 	"intent_type": "HandMeIntent",
 	"intent": {
-			"HandMeKeyword": "hand me"
+			"HandMeKeyword": "hand me a cookie"
 	}
 }
