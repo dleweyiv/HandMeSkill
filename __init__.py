@@ -1,6 +1,5 @@
 # Copyright 2017 David Lewis
 # This file is part of the Villanova tour guide mrcroft skill
-from os.path import dirname
 
 from adapt.intent import IntentBuilder
 
