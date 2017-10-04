@@ -21,7 +21,7 @@ class HandMeSkill(MycroftSkill):
 				self.register_intent(hand_me_intent, self.handle_hand_me_intent)
 
 		def handle_hand_me_intent(self, message):
-				self_speak_dialog("hand.me")
+				self.speak_dialog("hand.me")
 
 		def stop(self):
 				pass
