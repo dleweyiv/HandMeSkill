@@ -1,0 +1,7 @@
+{	
+	"utterance": "Hand me",
+	"intent_type": "HandMeIntent",
+	"intent": {
+			"HandMeKeyword": "hand me"
+	}
+}
